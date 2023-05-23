@@ -1,0 +1,28 @@
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.exe
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.deps.json
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.dll
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\ref\Simple Calculator.dll
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Simple Calculator.pdb
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator_MarkupCompile.cache
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator_MarkupCompile.lref
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.g.resources
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.dll
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\ref\Simple Calculator.dll
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.pdb
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Views\MainWindow.baml
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\MahApps.Metro.dll
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Adam\source\repos\Simple Calculator\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\App.baml
+C:\Users\Adam\source\repos\Simple Calculator\obj\Debug\net5.0-windows\Simple Calculator.csproj.CopyComplete

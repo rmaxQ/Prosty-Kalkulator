@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgX7ue5yGt9TG3dNkGJXl3UFQLX2YKEJL9Pm9IPCzEtsg4hJgqeDehSltqrt3oCaevDySNVYXKvurtjMXT2jdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam\\source\\repos\\Simple Calculator\\Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
